@@ -1,2 +1,2 @@
 # ximd
-Library of SIMD versions of common C/C++ functions
+C++14 library of SIMD versions of common C/C++ functions
